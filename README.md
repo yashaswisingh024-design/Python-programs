@@ -12,6 +12,15 @@ This repository contains basic to intermediate Python programs.
 - Exception Handling
 - Regular Expressions
 - OOP (Shopping System)
+ ## 🆕 New Additions
+
+### 🧠 Text Similarity Checker
+A simple program that compares two text inputs and calculates similarity percentage using set-based logic.
+
+**Features:**
+- Compares two texts
+- Case-insensitive matching
+- Shows similarity percentage
 
 ## Author
 Yashaswi Singh
